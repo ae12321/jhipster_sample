@@ -1,0 +1,18 @@
+{
+  "changelogDate": "20230119114057",
+  "fields": [
+    {
+      "fieldName": "carName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "is4Door",
+      "fieldType": "Boolean"
+    }
+  ],
+  "name": "Car",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
