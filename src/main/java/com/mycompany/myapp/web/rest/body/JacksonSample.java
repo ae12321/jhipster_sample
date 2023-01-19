@@ -30,3 +30,4 @@ class InnerJacksonSample {
     @JsonProperty("published")
     private Date publishedat;
 }
+// https://blog.enjoyxstudy.com/entry/2017/03/24/000000
